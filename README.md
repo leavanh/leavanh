@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## Data Scientist
-
 Welcome to my GitHub profile! I am Lea Schulz-Vanheyden, a passionate data scientist with a Masters's degree in Statistics and Data Science from LMU Munich. I have a strong interest in machine learning, deep learning, and natural language processing (NLP). With expertise in R and Python, I enjoy leveraging these tools to extract valuable insights from data.
 
 ### Education
