@@ -1,4 +1,4 @@
-# Lea Schulz-Vanheyden
+# Hi there 👋
 
 ## Data Scientist
 
