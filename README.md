@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I am Lea Schulz-Vanheyden, a passionate data scien
 
 ### Contact Information
 
-- Email: lea@schulz-vanheyden.de
 - LinkedIn: [Lea Schulz-Vanheyden](https://www.linkedin.com/in/lea-schulz-vanheyden-a1b484204)
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I am open to exciting opportunities and collaborations in the field of data science and statistics. Let's connect and explore the possibilities together!
